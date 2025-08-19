@@ -1,11 +1,11 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
+    "id": 8,
+    "name": "xstep",
+    "author": "robtop",
     "creators": ["Creator1", "Creator2", "Creator3"],
     "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
+    "verification": "https://www.youtube.com/watch?v=0bpsLAxoxho",
+    "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
         {
