@@ -3,7 +3,7 @@
     "name": "xstep",
     "author": "robtop",
     "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
+    "verifier": "test",
     "verification": "https://www.youtube.com/watch?v=0bpsLAxoxho",
     "percentToQualify": 100,
     "password": "Not Copyable",
