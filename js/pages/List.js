@@ -130,6 +130,9 @@ export default {
                         cbf is 100% allowed and unrated levels get put on the list
                     </p>
                     <p>
+                        all recording must be in atleast 30 fps and not too much lag
+                    </p>
+                    <p> 
                 </div>
             </div>
         </main>
